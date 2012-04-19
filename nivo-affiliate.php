@@ -4,7 +4,7 @@ Plugin Name: Nivo Affiliate
 Plugin URI: http://www.polevaultweb.com/plugins/nivo-affiliate/  
 Description: Easily add Nivo Slider affiliate banners to your posts, pages and sidebars using this plugin.
 Author: polevaultweb 
-Version: 0.1.1
+Version: 0.1.2
 Author URI: http://www.polevaultweb.com/
 
 Copyright 2012  polevaultweb  (email : info@polevaultweb.com)
@@ -25,7 +25,7 @@ Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 */
 
 //plugin version
-define( 'NAP_PVW_PLUGIN_VERSION', '0.1.1');
+define( 'NAP_PVW_PLUGIN_VERSION', '0.1.2');
 //plugin name
 define( 'NAP_PVW_PLUGIN_NAME', 'Nivo Affiliate');
 //plugin shortcode

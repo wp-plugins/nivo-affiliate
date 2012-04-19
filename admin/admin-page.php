@@ -972,7 +972,7 @@ $plugins_string
 						<a href="http://www.polevaultweb.com/plugins/<?php echo NAP_PVW_PLUGIN_LINK; ?>/" title="<?php _e('Visit the site for', NAP_PVW_PLUGIN_LINK) ?> <?php echo NAP_PVW_PLUGIN_NAME; ?>"><?php _e('Plugin Site', NAP_PVW_PLUGIN_LINK) ?></a> |
 						<a title="<?php _e('Follow us on Twitter for updates', NAP_PVW_PLUGIN_LINK) ?>" href="http://twitter.com/#!/polevaultweb">@polevaultweb</a> |
 						<a title="<?php _e('Donations are much appreciated', NAP_PVW_PLUGIN_LINK) ?>" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=R6BY3QARRQP2Q"><?php _e('Donate with PayPal', NAP_PVW_PLUGIN_LINK) ?></a> |
-						<a href="http://db.tt/Y1ovFX6" title="<?php _e('Free storage space for you and us', NAP_PVW_PLUGIN_LINK) ?>"><?php _e('Donate by using Dropbox', NAP_PVW_PLUGIN_LINK) ?></a> |
+						<a href="http://db.tt/Y1ovFX6" title="<?php _e('Free storage space for you and us', NAP_PVW_PLUGIN_LINK) ?>"><?php _e('Donate by using Dropbox - Referral Link', NAP_PVW_PLUGIN_LINK) ?></a> |
 						<a href="http://wordpress.org/extend/plugins/<?php echo NAP_PVW_PLUGIN_LINK; ?>/" title="<?php _e('Rate the Plugin on WordPress', NAP_PVW_PLUGIN_LINK) ?>"><?php _e('Rate the Plugin', NAP_PVW_PLUGIN_LINK) ?> ★★★★★</a>
 					</div>
 					

@@ -6,13 +6,13 @@ Author URI: http://www.polevaultweb.com/
 Tags: nivo, nivo slider, affiliate, banners, adverts
 Requires at least: 3.0
 Tested up to: 3.3
-Stable tag: 0.1.1
+Stable tag: 0.1.2
 
 Love the Nivo Slider? Part of the affiliate program? Easily add affiliate banners to your posts, pages and sidebars.
 
 == Description ==
 
-Easily add [Nivo Slider](http://nivo.dev7studios.com?ap_id=polevaultweb) affiliate banners to your posts, pages and sidebars.
+Easily add Nivo Slider affiliate banners to your posts, pages and sidebars.
 
 To use this plugin you must have a Nivo Slider Affiliate account. [Sign up here](http://nivo.dev7studios.com/affiliates/)
 
@@ -26,7 +26,7 @@ Full list of features:
 
 If you have any issues or feature requests please visit and use the [Support Forum](http://www.polevaultweb.com/support/forum/nivo-affiliate-plugin/)
 
-[Plugin Page](http://www.polevaultweb.com/plugins/nivo-affiliate/) | [@polevaultweb](http://www.twitter.com/polevaultweb/) | [Donate with PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=R6BY3QARRQP2Q) | [Donate by signing up to Dropbox - free space for you and me](https://www.dropbox.com/referrals/NTI4NjU1OTQ1OQ)
+[Plugin Page](http://www.polevaultweb.com/plugins/nivo-affiliate/) | [@polevaultweb](http://www.twitter.com/polevaultweb/) | [Donate with PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=R6BY3QARRQP2Q)
 
 == Installation ==
 
@@ -66,4 +66,4 @@ Please visit and add to the [Feature Requests topic](http://www.polevaultweb.com
 
 == Disclaimer ==
 
-This plugin is not endorsed or certified by [Nivo Slider](http://nivo.dev7studios.com?ap_id=polevaultweb) or [Dev7studios](http://dev7studios.com/)
+This plugin is not endorsed or certified by [Nivo Slider](http://nivo.dev7studios.com) or [Dev7studios](http://dev7studios.com/)
