@@ -8,11 +8,13 @@ Requires at least: 3.0
 Tested up to: 3.3
 Stable tag: 0.1
 
-Love the [Nivo Slider](http://nivo.dev7studios.com?ap_id=polevaultweb)? Part of the [Affiliate Program](http://nivo.dev7studios.com/affiliates/)? Easily add affiliate banners to your posts, pages and sidebars.
+Love the Nivo Slider? Part of the affiliate program? Easily add affiliate banners to your posts, pages and sidebars.
 
 == Description ==
 
 Easily add [Nivo Slider](http://nivo.dev7studios.com?ap_id=polevaultweb) affiliate banners to your posts, pages and sidebars.
+
+To use this plugin you must have a Nivo Slider Affiliate account. [Sign up here](http://nivo.dev7studios.com/affiliates/)
 
 Full list of features:
 
