@@ -6,7 +6,7 @@ Author URI: http://www.polevaultweb.com/
 Tags: nivo, nivo slider, affiliate, banners, adverts
 Requires at least: 3.0
 Tested up to: 3.3
-Stable tag: 0.1
+Stable tag: 0.1.1
 
 Love the Nivo Slider? Part of the affiliate program? Easily add affiliate banners to your posts, pages and sidebars.
 
